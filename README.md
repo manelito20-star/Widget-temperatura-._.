@@ -47,7 +47,6 @@ O botão **Repor** restaura as predefinições. As alterações aos limites, à 
 
 ## 🛠️ Compilar
 
-O projeto usa Kotlin, Jetpack Compose e Gradle. Para gerar a versão de depuração:
+O projeto usa Kotlin, Jetpack Compose e Gradle. 
 
-```bash
-./gradlew :app:assembleDebug
+
