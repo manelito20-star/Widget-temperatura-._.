@@ -16,6 +16,10 @@ Uma aplicação Android que mantém a temperatura estimada do dispositivo visív
 - **Preferências guardadas:** os limites, a calibração, os alertas, o som e o idioma mantêm-se entre utilizações.
 - **Acesso rápido às definições:** mantenha o widget pressionado para abrir a aplicação.
 
+## ⚡Atalho rápido⚡
+
+- **Ativação ON/OFF direto na barra de atalhos do telefone** Adiciona este atalho prático e gere tudo num só toque, sem perder tempo a navegar por menus. Simples, rápido e sempre à mão!
+
 ## 🚀 Como começar
 
 1. Abra a aplicação e conceda a permissão para **apresentar sobre outras aplicações** quando solicitada.
